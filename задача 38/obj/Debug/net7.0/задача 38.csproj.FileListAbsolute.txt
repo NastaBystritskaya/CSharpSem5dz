@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\bin\Debug\net7.0\задача 38.exe
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\bin\Debug\net7.0\задача 38.deps.json
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\bin\Debug\net7.0\задача 38.runtimeconfig.json
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\bin\Debug\net7.0\задача 38.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\bin\Debug\net7.0\задача 38.pdb
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\obj\Debug\net7.0\задача 38.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\obj\Debug\net7.0\задача 38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\obj\Debug\net7.0\задача 38.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\obj\Debug\net7.0\задача 38.AssemblyInfo.cs
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\obj\Debug\net7.0\задача 38.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\obj\Debug\net7.0\задача 38.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\obj\Debug\net7.0\refint\задача 38.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\obj\Debug\net7.0\задача 38.pdb
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\obj\Debug\net7.0\задача 38.genruntimeconfig.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\ДЗ к семинарам\Cеминар 5 дз\задача 38\obj\Debug\net7.0\ref\задача 38.dll
